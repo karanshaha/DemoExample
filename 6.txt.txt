@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-This is karan !!!! test this 
-
-This is Kunal ....test this 
-=======
-This is test 6
->>>>>>> parent of 9effae6... Revert "Change for test"
+This is test demooooo
